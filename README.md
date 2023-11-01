@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 
 [![Ghasak's Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ghasak&theme=github_dark)]()
-![Codemaker2015 wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ghasak&layout=compact&theme=blue-green)
+![Codemaker2015 wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ghasak&layout=compact&theme=blue-green)
 <!-- References 
 https://github.com/alexandresanlim/Badges4-README.md-Profile?tab=readme-ov-file#-activity-graph-
 https://github.com/ryo-ma/github-profile-trophy?tab=readme-ov-file#apply-theme
