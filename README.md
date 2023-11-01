@@ -32,7 +32,9 @@ Here are some ideas to get you started:
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ghasak)](https://github.com/Ghasak/github-readme-stats) -->
 [![Ghasak's Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ghasak&theme=onedark)]()
 [![Ghasak's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ghasak&theme=onedark)]()
+<p align="left">
 [![Ghasak's Most Used Languages](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGhasak1212%2Fhit-counter)]()
+</p>
 
 [![Ghasak's Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ghasak&theme=github_dark)]()
 <!-- References 
