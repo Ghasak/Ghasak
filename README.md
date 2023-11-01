@@ -29,4 +29,4 @@ Here are some ideas to get you started:
 
 
 
-https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username={Ghasak}
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ghasak)](https://github.com/anuraghazra/github-readme-stats)
