@@ -29,4 +29,13 @@ Here are some ideas to get you started:
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ghasak)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ghasak)](https://github.com/Ghasak/github-readme-stats)
+[![Ghasak's Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username={Ghasak}&theme={onedark})](https://github.com/ghasak/github-readme-stats)
+
+<!-- References 
+https://github.com/alexandresanlim/Badges4-README.md-Profile?tab=readme-ov-file#-activity-graph-
+https://github.com/ryo-ma/github-profile-trophy?tab=readme-ov-file#apply-theme
+https://github.com/ryo-ma/github-profile-trophy?tab=readme-ov-file
+https://github.com/anuraghazra/github-readme-stats
+
+-->
