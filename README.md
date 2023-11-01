@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-![Static Badge](https://img.shields.io/badge/ProfilePage-https%3A%2F%2Fgithub.com%2FGhasak%3Ftab%3Drepositories)
+
+[![Profile Page](https://img.shields.io/badge/ProfilePage-https%3A%2F%2Fgithub.com%2FGhasak%3Ftab%3Drepositories)](https://github.com/Ghasak?tab=repositories)
+
 
 <!--
 **Ghasak/Ghasak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
