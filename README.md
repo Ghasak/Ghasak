@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ghasak)](https://github.com/Ghasak/github-readme-stats)
-[![Ghasak's Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username={Ghasak}&theme={onedark})]()
+[![Ghasak's Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ghasak&theme=onedark)](https://github.com/Ghasak/github-readme-stats)
 
 <!-- References 
 https://github.com/alexandresanlim/Badges4-README.md-Profile?tab=readme-ov-file#-activity-graph-
