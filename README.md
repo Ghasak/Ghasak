@@ -33,8 +33,9 @@ Here are some ideas to get you started:
 [![Ghasak's Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ghasak&theme=onedark)]()
 [![Ghasak's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ghasak&theme=onedark)]()
 <p align="left">
-[![Ghasak's Most Used Languages](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGhasak1212%2Fhit-counter)]()
+<!-- [![Ghasak's Most Used Languages](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGhasak1212%2Fhit-counter)]()-->
 </p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ghasak&show_icons=true&theme=radical)
 
 [![Ghasak's Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ghasak&theme=github_dark)]()
 <!-- References 
