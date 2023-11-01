@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Static Badge](https://img.shields.io/badge/CodingProfile--ProjectsRepo--https%3A%2F%2Fgithub.com%2FGhasak%3Ftab%3Drepositories)
+![Static Badge](https://img.shields.io/badge/CodingProfile-Projects_Repos-blue?link=https%3A%2F%2Fgithub.com%2FGhasak%3Ftab%3Drepositories)
 
 
 <!--
