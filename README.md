@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 [![Ghasak's Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ghasak&theme=onedark)]()
 [![Ghasak's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ghasak&theme=onedark)]()
 [![Ghasak's Most Used Languages](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGhasak1212%2Fhit-counter)]()
-[![Ghasak's Most Used Languages](https://github-readme-streak-stats.herokuapp.com/?user=Ghasak&theme=onedark)]()
+[![Ghasak's Most Used Languages](https://github-readme-streak-stats.herokuapp.com/?user=Ghasak&theme=dark)]()
 
 <!-- References 
 https://github.com/alexandresanlim/Badges4-README.md-Profile?tab=readme-ov-file#-activity-graph-
