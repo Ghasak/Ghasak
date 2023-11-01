@@ -34,7 +34,8 @@ Here are some ideas to get you started:
 [![Ghasak's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ghasak&theme=onedark)]()
 
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Ghasak&theme=omni&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" /></a>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Ghasak)](https://git.io/streak-stats)
 
 [![Ghasak's Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ghasak&theme=github_dark)]()
 <!-- References 
