@@ -32,11 +32,9 @@ Here are some ideas to get you started:
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ghasak)](https://github.com/Ghasak/github-readme-stats) -->
 [![Ghasak's Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ghasak&theme=onedark)]()
 [![Ghasak's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ghasak&theme=onedark)]()
-<p align="left">
-<!-- [![Ghasak's Most Used Languages](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGhasak1212%2Fhit-counter)]()-->
-</p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ghasak&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Ghasak&theme=omni&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" /></a>
 
 [![Ghasak's Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ghasak&theme=github_dark)]()
 <!-- References 
