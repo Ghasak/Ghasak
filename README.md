@@ -29,4 +29,4 @@ Here are some ideas to get you started:
 
 
 
-[![ff](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username={ghasak})]()
+https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username={Ghasak}
