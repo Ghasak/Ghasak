@@ -35,9 +35,9 @@ Here are some ideas to get you started:
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Ghasak)](https://git.io/streak-stats)
 
 [![Ghasak's Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ghasak&theme=github_dark)]()
+![Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=Ghasak&theme=xcode)
 <!-- References 
 https://github.com/alexandresanlim/Badges4-README.md-Profile?tab=readme-ov-file#-activity-graph-
 https://github.com/ryo-ma/github-profile-trophy?tab=readme-ov-file#apply-theme
