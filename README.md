@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Ghasak&column=5&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
+## 😂 Here is a random joke that'll make you laugh!
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 <!-- [![Visits Badge](https://badges.pufler.dev/visits/ghasak)](https://medium.com/@ghasak) -->
 [![Twitter Badge](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/mdotgh)
