@@ -70,9 +70,19 @@ Here are some ideas to get you started:
 
 ## 🃏 Here is a random joke!
 
-<a style="display: flex, justify-content: center;">
-        <img width=4000 align="center" src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
-</a>
+<!-- 🃏 Random-joke card that auto-switches for light / dark mode -->
+<div align="center">
+  <picture>
+    <!-- dark-theme users -->
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" />
+    <!-- light theme / no preference -->
+    <img
+      src="https://readme-jokes.vercel.app/api?theme=daySky&hideBorder"
+      alt="Jokes Card" />
+  </picture>
+</div>
 <!-- HTML -->
 
 ## Links
