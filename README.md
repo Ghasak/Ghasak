@@ -51,11 +51,22 @@ Here are some ideas to get you started:
 <!-- </p> -->
 
 ### Activity Graph
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ghasak&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ghasak&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ghasak&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ghasak&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ghasak&theme=github_dark&utcOffset=8)
+<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ghasak&theme=github_dark) -->
+<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ghasak&theme=github_dark) -->
+<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ghasak&theme=github_dark) -->
+<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ghasak&theme=github_dark) -->
+<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ghasak&theme=github_dark&utcOffset=8) -->
+<!---->
+
+<!-- transparent theme examples -->
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ghasak&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ghasak&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ghasak&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ghasak&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ghasak&theme=transparent&utcOffset=8)
+
+
+
 
 ## 🃏 Here is a random joke!
 
@@ -74,10 +85,25 @@ Here are some ideas to get you started:
 [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ghasak)
 [![StackOverFlow Badge](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/10768894/dr-neo)
 
-<!-- References
+<!-- Reference
+https://github.com/anuraghazra/github-readme-stats
 https://github.com/alexandresanlim/Badges4-README.md-Profile?tab=readme-ov-file#-activity-graph-
 https://github.com/ryo-ma/github-profile-trophy?tab=readme-ov-file#apply-theme
 https://github.com/ryo-ma/github-profile-trophy?tab=readme-ov-file
 https://github.com/anuraghazra/github-readme-stats
 https://github-profile-summary-cards.vercel.app/demo.html
+https://github.com/ABSphreak/readme-jokes
+https://github.com/anuraghazra/github-readme-stats
+https://codemaker2016.medium.com/tips-and-tricks-to-create-an-awesome-github-profile-readme-ce3825a355c7
+https://shields.io/badges
+https://www.youtube.com/watch?v=a8CwpGARAsQ&t=110s
+https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme
+- [Markdown Badges](https://ileriayo.github.io/markdown-badges/)
+###################################################
+Daily Usage
+##################################################
+https://ileriayo.github.io/markdown-badges/
+https://shields.io/badges/static-badge
+
+
 -->
